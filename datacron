@@ -1,0 +1,13 @@
+SHELL=/bin/bash
+PATH=/sbin:/bin:/use/sbin:/usr/bin
+HONE=/home/philfish/netty
+
+0 3 25-31 3 * ./getping.sh
+0 9 25-31 3 * ./getping.sh
+0 15 25-31 3 * ./getping.sh
+0 21 25-31 3 * ./getping.sh
+0 3 25-31 3 * ./getroute.sh
+0 9 25-31 3 * ./getroute.sh
+0 15 25-31 3 * ./getroute.sh
+0 21 25-31 3 * ./getroute.sh
+
