@@ -1,0 +1,17 @@
+PING theworldsworstwebsiteever.com (162.241.131.251) 56(84) bytes of data.
+64 bytes from 162.241.131.251: icmp_seq=7 ttl=43 time=157 ms
+64 bytes from 162.241.131.251: icmp_seq=18 ttl=43 time=162 ms
+64 bytes from 162.241.131.251: icmp_seq=20 ttl=43 time=159 ms
+64 bytes from 162.241.131.251: icmp_seq=26 ttl=43 time=155 ms
+64 bytes from 162.241.131.251: icmp_seq=28 ttl=43 time=158 ms
+64 bytes from 162.241.131.251: icmp_seq=34 ttl=43 time=165 ms
+64 bytes from 162.241.131.251: icmp_seq=67 ttl=43 time=162 ms
+64 bytes from 162.241.131.251: icmp_seq=79 ttl=43 time=164 ms
+64 bytes from 162.241.131.251: icmp_seq=91 ttl=43 time=162 ms
+64 bytes from 162.241.131.251: icmp_seq=102 ttl=43 time=168 ms
+64 bytes from 162.241.131.251: icmp_seq=107 ttl=43 time=158 ms
+64 bytes from 162.241.131.251: icmp_seq=113 ttl=43 time=184 ms
+
+--- theworldsworstwebsiteever.com ping statistics ---
+120 packets transmitted, 12 received, 90% packet loss, time 119827ms
+rtt min/avg/max/mdev = 155.993/163.534/184.927/7.310 ms
