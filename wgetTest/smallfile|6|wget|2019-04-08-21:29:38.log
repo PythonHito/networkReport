@@ -1,0 +1,12 @@
+--2019-04-08 21:30:00--  http://ftp.se.debian.org/debian/dists/Debian9.8/contrib/dep11/icons-64x64.tar.gz
+Resolving ftp.se.debian.org (ftp.se.debian.org)... 194.71.11.165, 194.71.11.173, 2001:6b0:19::165, ...
+Connecting to ftp.se.debian.org (ftp.se.debian.org)|194.71.11.165|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100018 (98K) [application/x-gzip]
+Saving to: ‘icons-64x64.tar.gz.6’
+
+     0K .......... .......... .......... .......... .......... 51%  520K 0s
+    50K .......... .......... .......... .......... .......   100% 14.9M=0.1s
+
+2019-04-08 21:30:00 (984 KB/s) - ‘icons-64x64.tar.gz.6’ saved [100018/100018]
+
